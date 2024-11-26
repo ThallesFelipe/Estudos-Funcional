@@ -6,6 +6,11 @@ v0 = 15
 a = (-9.81) ^ 2
 
 s = s0 + v0 * t + (a * t ^ 2) / 2
+    where
+        t = 8
+        s0 = 100
+        v0 = 15
+        a = (-9.81) ^ 2
 
 -- 3.2 Expressões matemáticas
 
